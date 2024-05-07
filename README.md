@@ -7,3 +7,8 @@ To run this application locally, follow these steps:
 
 * Clone this repository to your local machine.
 * Open the index.html file in a web browser.
+
+## Usage
+- Enter a search term in the input field.
+- Click the "Search" button.
+- Images related to the search term will be displayed.
