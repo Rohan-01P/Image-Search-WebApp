@@ -1,1 +1,3 @@
 # Image-Search-WebApp
+
+This is a simple web application for searching images using the Google Image Search API. Users can enter a search term, and the application will display relevant images fetched from the API.
