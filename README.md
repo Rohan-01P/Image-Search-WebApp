@@ -5,5 +5,5 @@ This is a simple web application for searching images using the Google Image Sea
 ## Getting Started
 To run this application locally, follow these steps:
 
-Clone this repository to your local machine.
-Open the index.html file in a web browser.
+*Clone this repository to your local machine.
+* Open the index.html file in a web browser.
